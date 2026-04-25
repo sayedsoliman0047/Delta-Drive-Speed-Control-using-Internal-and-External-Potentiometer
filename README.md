@@ -38,7 +38,7 @@ The project was implemented on a **real hardware setup**, including wiring, para
 * Drive operates in **Local Mode**
 * No external wiring required
 
-📍 Key Idea:
+ Key Idea:
 The frequency reference is taken directly from the drive interface
 
 ---
@@ -48,20 +48,20 @@ The frequency reference is taken directly from the drive interface
 * Speed is controlled using an **external potentiometer**
 * Connected to analog input terminals of the drive
 
-📍 Typical Wiring:
+ Typical Wiring:
 
 * +10V → One side of potentiometer
 * GND → Other side
 * AI (Analog Input) → Middle (wiper)
 
-📍 Key Idea:
+ Key Idea:
 The drive reads a **0–10V analog signal** and converts it to frequency
 
 ---
 
 ##  Drive Configuration 
 
-### 🧠 Basic Parameters:
+###  Basic Parameters:
 
 * Run Command Source → Keypad / External (depending on mode)
 * Frequency Source:
