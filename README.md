@@ -80,11 +80,12 @@ The drive reads a **0–10V analog signal** and converts it to frequency
 
 ###  External Potentiometer Demo
 
-[Watch External Potentiometer Video](External Potentiometer Video.mp4)
+[Watch External Potentiometer Video](External_Potentiometer_Video.mp4)
+
 
 ###  Internal Potentiometer Demo
 
-[Watch Internal Potentiometer Video](External Potentiometer Video.mp4)
+[Watch Internal Potentiometer Video](Internal_Potentiometer_Video.mp4)
 
 ---
 
